@@ -98,7 +98,6 @@ def main():
     # Set wallpaper and theme
     subprocess.run(["matugen", "image", "./example_wallpaper.jpg"], check=True, stdout=subprocess.DEVNULL)
 
-    clear()
     console.print("""
 ┌────────────────────────────┐
 │                            │
