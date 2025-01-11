@@ -62,6 +62,7 @@ python-pygobject-stubs
 python-pynvim
 python-setproctitle
 python-toml
+python-pywalfox
 ranger
 ripgrep
 rofi-calc
@@ -73,6 +74,7 @@ stow
 swaylock-effects-git
 swaync
 swayosd-git
+swww-git
 tesseract
 tesseract-data-eng
 tesseract-data-spa
