@@ -12,7 +12,6 @@ fd
 ffmpeg-obs
 ffmpegthumbnailer
 firefox
-fish
 fzf
 gnome-bluetooth-3.0
 gnome-calculator
